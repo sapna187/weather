@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425827208147",
+    "project_id": "weather1-ce75a",
+    "storage_bucket": "weather1-ce75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425827208147:android:1be01ade342f598739bd26",
+        "android_client_info": {
+          "package_name": "com.codewithandrea.open_weather_example_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMG0sLpdMa_FIiWu4BitvWnmcBlzRlWaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

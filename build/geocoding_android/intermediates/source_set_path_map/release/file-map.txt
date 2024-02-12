@@ -1,0 +1,12 @@
+com.baseflow.geocoding.geocoding_android-jetified-window-java-1.0.0-beta04-0 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\0a64dc965b42811dade07a145e44d896\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.geocoding.geocoding_android-jetified-window-1.0.0-beta04-1 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\8080cb4b3402d37030d13710e2b23e69\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.geocoding.geocoding_android-jetified-annotation-experimental-1.1.0-2 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\a42dcf64ea94f91ce0fb69f64bd8cf03\transformed\jetified-annotation-experimental-1.1.0\res
+com.baseflow.geocoding.geocoding_android-core-1.6.0-3 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\f1756a60c658a8e07fe33df7420be68b\transformed\core-1.6.0\res
+com.baseflow.geocoding.geocoding_android-main-4 C:\Users\Sandeep Suryawanshi\AppData\Local\Pub\Cache\hosted\pub.dev\geocoding_android-2.1.2\android\src\main\res
+com.baseflow.geocoding.geocoding_android-release-5 C:\Users\Sandeep Suryawanshi\AppData\Local\Pub\Cache\hosted\pub.dev\geocoding_android-2.1.2\android\src\release\res
+com.baseflow.geocoding.geocoding_android-pngs-6 D:\My_Projects\open_weather_example_flutter\build\geocoding_android\generated\res\pngs\release
+com.baseflow.geocoding.geocoding_android-resValues-7 D:\My_Projects\open_weather_example_flutter\build\geocoding_android\generated\res\resValues\release
+com.baseflow.geocoding.geocoding_android-rs-8 D:\My_Projects\open_weather_example_flutter\build\geocoding_android\generated\res\rs\release
+com.baseflow.geocoding.geocoding_android-mergeReleaseResources-9 D:\My_Projects\open_weather_example_flutter\build\geocoding_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.geocoding.geocoding_android-mergeReleaseResources-10 D:\My_Projects\open_weather_example_flutter\build\geocoding_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.geocoding.geocoding_android-merged_res-11 D:\My_Projects\open_weather_example_flutter\build\geocoding_android\intermediates\merged_res\release

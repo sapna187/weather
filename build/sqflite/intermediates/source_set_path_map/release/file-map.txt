@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-0 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\0a64dc965b42811dade07a145e44d896\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-1 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\8080cb4b3402d37030d13710e2b23e69\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-2 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\a42dcf64ea94f91ce0fb69f64bd8cf03\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-core-1.6.0-3 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\f1756a60c658a8e07fe33df7420be68b\transformed\core-1.6.0\res
+com.tekartik.sqflite-main-4 C:\Users\Sandeep Suryawanshi\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.0\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\Sandeep Suryawanshi\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.0\android\src\release\res
+com.tekartik.sqflite-pngs-6 D:\My_Projects\open_weather_example_flutter\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 D:\My_Projects\open_weather_example_flutter\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 D:\My_Projects\open_weather_example_flutter\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 D:\My_Projects\open_weather_example_flutter\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 D:\My_Projects\open_weather_example_flutter\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 D:\My_Projects\open_weather_example_flutter\build\sqflite\intermediates\merged_res\release

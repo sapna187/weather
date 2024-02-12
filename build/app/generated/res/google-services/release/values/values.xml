@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">425827208147</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMG0sLpdMa_FIiWu4BitvWnmcBlzRlWaA</string>
+    <string name="google_app_id" translatable="false">1:425827208147:android:1be01ade342f598739bd26</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMG0sLpdMa_FIiWu4BitvWnmcBlzRlWaA</string>
+    <string name="google_storage_bucket" translatable="false">weather1-ce75a.appspot.com</string>
+    <string name="project_id" translatable="false">weather1-ce75a</string>
+</resources>

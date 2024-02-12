@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-0 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\0a64dc965b42811dade07a145e44d896\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-1 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\8080cb4b3402d37030d13710e2b23e69\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-2 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\a42dcf64ea94f91ce0fb69f64bd8cf03\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.2-3 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\bd201da06893ab2035c0783610cc7e79\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-4 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\f1756a60c658a8e07fe33df7420be68b\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-5 C:\Users\Sandeep Suryawanshi\.gradle\caches\transforms-3\f6a5d1527d1c9ad3750a5d49a9a542e8\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\Sandeep Suryawanshi\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.25.4\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\Sandeep Suryawanshi\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.25.4\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 D:\My_Projects\open_weather_example_flutter\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 D:\My_Projects\open_weather_example_flutter\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 D:\My_Projects\open_weather_example_flutter\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 D:\My_Projects\open_weather_example_flutter\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 D:\My_Projects\open_weather_example_flutter\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 D:\My_Projects\open_weather_example_flutter\build\firebase_core\intermediates\merged_res\release
